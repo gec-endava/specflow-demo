@@ -1,0 +1,6 @@
+@SpecPlayApi_HostAddress = http://localhost:5119
+
+GET {{SpecPlayApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
